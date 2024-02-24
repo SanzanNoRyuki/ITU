@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+<head>
+    <title> ITU AJAX(xfulla00) </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />                                                           <!-- Original charset = iso-8859-2 -->
+    <style type="text/css">
+       input { margin: 10px; } body { background-color: lightgreen; }
+    </style>
+</head>
+<body>
+<!-- HTML & CSS -->
+<div id="chatArea" style="background-color: green; border: solid #aaa 1px; font-family: Lucida Console; height: 300px; margin: auto; overflow: auto; width: 50%;"></div>
+
+<form onsubmit="return uploadData()">
+    <input type="text" id="newMessageString" style="background-color: green; font-family: Lucida Console; font-size: 100%; margin-left: 25%; width: 40%;">
+    <input type="submit" value="SEND" style="background-color: darkgreen; color: white; font-family: Lucida Console; font-size: 105%; font-weight: bold; margin: auto; width: 9%;">
+</form>
+
+<div id="status" style="background-color: green; border: solid #aaa 1px; font-family: Lucida Console; margin: auto; width: 50%;">&nbsp;</div>
+
+<!-- JavaScript -->
+<script type="text/javascript">
+function createXmlHttpRequestObject()                                                                                               // XMLHttpRequest object constructor (for compatibility with various browsers)
+{
+    var request;
+
+    try
+    {
+        request = new XMLHttpRequest();                                                                                             // Should work on all browsers except IE6 or older
+    }
+    catch (e)
+    {
+        try
+        {
+            request = new ActiveXObject("Microsoft.XMLHttp");                                                                       // Browser is IE6 or older
+        }
+        catch (e)
+        {
+            // Ignore error
+        }
+    }
+
+    if (!request)
+    {
+        alert("Error creating the XMLHttpRequest object.");
+    }
+    else
+    {
+        return request;
+    }
+}
+
+function uploadData()                                                                                                               // Uploads message
+{
+    try
+    {
+        var request = createXmlHttpRequestObject();                                                                                 // Stores XMLHttpRequestObject
+
+        request.open("POST", "http://pckiss.fit.vutbr.cz/itu/api.php", true);
+        request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
+        request.send("user=xfulla00&data=" + document.getElementById("newMessageString").value);
+
+        document.getElementById("newMessageString").value = null;
+        downloadData();                                                                                                             // Updates messages
+    }
+    catch (e)
+    {
+        alert(e.toString());
+    }
+
+    return false;                                                                                                                   // To avoid default form submit behavior
+}
+
+function downloadData()                                                                                                             // Downloads messages
+{
+    var request = createXmlHttpRequestObject();                                                                                     // Stores XMLHttpRequestObject
+
+    request.open("GET", "http://pckiss.fit.vutbr.cz/itu/api.php", true);
+    request.onreadystatechange = function()                                                                                         // Anonymous function(a function without a name).
+    {
+        if ((request.readyState === 4) && (request.status === 200))                                                                 // Process is completed and http status is OK
+        {
+            var last_id  = (document.getElementById("status").innerText).substring(21);                                             // ID of last recieved message
+            var messages = JSON.parse(request.responseText);
+
+            for (var msg of messages)                                                                                               // Processes message
+            {
+                if (msg.id > last_id)                                                                                               // Only draws new messages
+                {
+                    document.getElementById("chatArea").innerHTML = document.getElementById("chatArea").innerHTML + "[" + msg.dts + "]<b>" + sanitize(msg.login) + ": </b>" + msg.cnt + "<br>";
+                    chatArea.scrollTop = chatArea.scrollHeight;                                                                     // Snaps to new messages
+                }
+            }
+            document.getElementById("status").innerText = "ID of last recieved: " + msg.id;                                         // Updates last recieved ID
+        }
+    }
+    request.send(null);
+}
+
+function sanitize(unsanitized) {                                                                                                    // Sanitizes illegal input(logins)
+  var sanitizer = document.createElement('div');
+  sanitizer.innerText = unsanitized;
+  return sanitizer.innerHTML;
+}
+
+setInterval(downloadData, 3000);                                                                                                    // Auto update timer(3s)
+</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\Data\brno.json
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\Data\london.json
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\Data\praha.json
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\WPFWeather.exe.config
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\WPFWeather.exe
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\WPFWeather.pdb
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\CommonServiceLocator.dll
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\Newtonsoft.Json.dll
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\System.Windows.Interactivity.dll
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\bin\Debug\Newtonsoft.Json.xml
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather.csprojAssemblyReference.cache
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\Windows\MainWindow.g.cs
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeatherApp.g.cs
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather_MarkupCompile.cache
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather_MarkupCompile.lref
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\Windows\MainWindow.baml
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather.g.resources
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather.Properties.Resources.resources
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather.csproj.GenerateResource.cache
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather.csproj.CoreCompileInputs.cache
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather.csproj.CopyComplete
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather.exe
+D:\Roman\Cloud\WIP\School\ITU\Exercise 4\ITU-Lab-Starter\obj\x86\Debug\WPFWeather.pdb
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\Data\brno.json
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\Data\london.json
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\Data\praha.json
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\WPFWeather.exe.config
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\WPFWeather.exe
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\WPFWeather.pdb
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\CommonServiceLocator.dll
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\Newtonsoft.Json.dll
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\System.Windows.Interactivity.dll
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\bin\Debug\Newtonsoft.Json.xml
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather.csproj.AssemblyReference.cache
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\Windows\MainWindow.g.cs
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeatherApp.g.cs
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather_MarkupCompile.cache
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather_MarkupCompile.lref
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\Windows\MainWindow.baml
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather.g.resources
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather.Properties.Resources.resources
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather.csproj.GenerateResource.cache
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather.csproj.CoreCompileInputs.cache
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather.csproj.CopyComplete
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather.exe
+D:\Cloud\Private files\School\College\5. semester\ITU - User Interface Programming\Work\WPF\xfulla00\obj\x86\Debug\WPFWeather.pdb
